@@ -3,7 +3,7 @@ package Prerequisites;
 
 
 public class RType extends Type{
-    public  RType(){
+    private  RType(){
         format.put("op",6);
         format.put("rs",5);
         format.put("rt",5);
