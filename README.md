@@ -1,2 +1,2 @@
 # Assembler
-Custom instroction assmebling to machine code app developed for course project (2019)
+Custom instruction assembling to machine code app developed for course project (2019)
